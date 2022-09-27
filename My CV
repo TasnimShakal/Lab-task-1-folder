@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Curriculam Vitae</title>
+</head>
+<body>
+	<table align="center" width="40%">
+		<th bgcolor="FoE68C" align="left" width="45%">
+			
+			<center>
+				<img src="img.jpg" height="200" width="200" border="1"/>
+			</center>
+
+			<center>
+				<h1><font size="18px">Tasnim Binta Hossain Shakal </font></h1>
+			</center>
+			<font face="Calibri Light" size="8px"><u>Contact</u></font>
+
+			<br>
+			<ul>
+				<li> Address: <br>118 Lake circus kalabagan (3rd lane), Dhaka-1205</li>
+				<li> Phone: <br>01405335811</li>
+				<li> Email: <br>
+tasnimm118@gmail.com</li>
+			</ul>
+			<br>
+<font face="Calibri Light" size="8px"><u>Skills Highlights</u></font>
+
+			<br>
+			<ul>
+				<li>Project Management </li>
+				<li>Strong decision maker </li>
+				<li>Complex problem solver</li>
+				<li>Creative design </li>
+				<li>Innovative</li>
+				<li>Service-focused</li>
+			</ul>
+			<br>
+
+<font face="Calibri Light" size="8px"><u>Programming</u></font>
+
+			<br>
+			<ul>
+				<li>PHP </li>
+				<li>MySQL </li>
+				<li>CSS</li>
+				<li>HTML </li>
+				
+			</ul>
+			<br>
+<font face="Calibri Light" size="8px"><u>Languages</u></font>
+
+			<br>
+			<ul>
+				<li> English</li>
+				<li> Hindi</li>
+				
+			</ul>
+			<br>
+
+		</th>
+
+		<th align="left">
+
+<font face="Calibri Light" size="8px"><u>Summary</u></font>
+<ul>
+Well-versed in HTML,PHP,CSS,MySQL.<br>Strong background in project management<br> and customer relations.
+
+</ul>
+<font face="Calibri Light" size="8px"><u>Experience</u></font>
+<p>
+	Did some web technologies project.<br>
+	AIUB,Dhaka
+</p>
+<ul>
+	<li>Cooperate with designers to create clean interfaces </li>
+				<li>Develop project concept and maintain optimal workflow </li>
+				<li> Carry out quality assurance tests to discover errors</li>
+				
+
+</ul>
+<style > table,tr ,th,td {
+	border: 2px solid yellow;
+}</style>
+<font face="Calibri Light" size="8px"><u>Education</u></font>
+
+<ul>
+	<table>
+		<tr>
+			<th>
+				Education
+			</th>
+			<th>
+				Grade
+			</th>
+			<th>
+				Board
+			</th>
+			<th>
+				year
+			</th>
+		</tr>
+<tr>
+			<th>
+				SSC
+			</th>
+			<th>
+				GPA:5.00
+			</th>
+			<th>
+				Dhaka
+			</th>
+			<th>
+				2017
+			</th>
+		</tr>
+<tr>
+			<th>
+				HSC
+			</th>
+			<th>
+				GPA:5.00
+			</th>
+			<th>
+				Dhaka
+			</th>
+			<th>
+				2019
+			</th>
+		</tr>
+
+		<tr>
+			<th>
+				BSC in CSE
+			</th>
+			<th>
+				Current in 3rd year with CGPA : 3.60
+			</th>
+			<th>
+				AIUB
+			</th>
+			<th>
+				2022
+			</th>
+		</tr>
+
+	</table>
+</ul>
+
+<font face="Calibri Light" size="8px"><u>Certifications</u></font>
+
+<ul>
+	Did not get any certificate yet.<br>
+	working on it.
+</ul>
+
+		</th>
+
+
+	</table>
+
+</body>
+</html>
